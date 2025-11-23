@@ -42,9 +42,9 @@ Switch instantly between diverse visual styles to match your mood:
 
 ## 📸 Screenshots
 
-| **The Player Interface** | **Lyrics Mode** |
-|:---:|:---:|
-| *[Insert Screenshot of Player Here]* | *[Insert Screenshot of Lyrics Here]* |
+| **The Player Interface**
+
+<img width="1366" height="722" alt="image" src="https://github.com/user-attachments/assets/e705d85c-b478-4416-9255-9a6929d1aec9" /> 
 
 ---
 
@@ -61,8 +61,8 @@ Ensure you have Python installed. This project relies on the following powerful 
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/rooks-music-player.git](https://github.com/yourusername/rooks-music-player.git)
-    cd rooks-music-player
+    git clone https://github.com/RookiexCookie/MusicPlayer.git
+    cd MusicPlayer
     ```
 
 2.  **Install Dependencies**
@@ -72,7 +72,7 @@ Ensure you have Python installed. This project relies on the following powerful 
 
 3.  **Run the Application**
     ```bash
-    python main.py
+    python music_player.py
     ```
 
 ---
